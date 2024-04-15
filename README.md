@@ -2,6 +2,9 @@
 
 Welcome to the Classy Weather repository! Your stylish companion for checking the weather forecast! ☀️
 
+  ![Travel List Screenshot](./public/weather-check.png )
+
+
 ## Description 📝
 
 Classy Weather is a React application built with Class components to provide you with accurate and up-to-date weather forecasts. With its elegant design and intuitive user interface, you can easily stay informed about the weather conditions in your area.
